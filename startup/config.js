@@ -1,4 +1,4 @@
-const config = require("config");
+// const config = require("config");
 
 //logging errors if env. var are not set.
 
